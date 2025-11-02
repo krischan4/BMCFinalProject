@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346401227523",
+    "project_id": "paguiabmc305",
+    "storage_bucket": "paguiabmc305.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346401227523:android:5211dd6c80017f80ba5f36",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZA0-dvKFTJZyud0fk20SalvhxhjlfWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
